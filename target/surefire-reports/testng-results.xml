@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42359" started-at="2019-10-27T04:59:32Z" finished-at="2019-10-27T05:00:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42359" started-at="2019-10-27T04:59:32Z" finished-at="2019-10-27T05:00:15Z">
+      <class name="com.maven.sample.MavenProjectDemo.RameshSoftTest">
+        <test-method status="PASS" signature="RSTest()[pri:0, instance:com.maven.sample.MavenProjectDemo.RameshSoftTest@22f71333]" name="RSTest" duration-ms="18639" started-at="2019-10-27T04:59:56Z" finished-at="2019-10-27T05:00:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RSTest -->
+      </class> <!-- com.maven.sample.MavenProjectDemo.RameshSoftTest -->
+      <class name="com.maven.sample.MavenProjectDemo.GmailTest">
+        <test-method status="PASS" signature="GTest()[pri:0, instance:com.maven.sample.MavenProjectDemo.GmailTest@6cd8737]" name="GTest" duration-ms="23695" started-at="2019-10-27T04:59:32Z" finished-at="2019-10-27T04:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GTest -->
+      </class> <!-- com.maven.sample.MavenProjectDemo.GmailTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
