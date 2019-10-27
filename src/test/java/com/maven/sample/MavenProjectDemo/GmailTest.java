@@ -18,6 +18,8 @@ public class GmailTest {
 		driver.findElement(By.id("identifierId")).sendKeys("Ramakrishna");
 		Thread.sleep(4000);
 		System.out.println("updated code");
+		System.out.println("updated by RK");
+		System.out.println("updated by RK");
 		driver.close();
 		
 	}
