@@ -19,6 +19,7 @@ public class GmailTest {
 		Thread.sleep(4000);
 		System.out.println("updated code");
 		System.out.println("updated by RK");
+		System.out.println("stashing....");
 		
 		driver.close();
 		
